@@ -1,0 +1,7 @@
+===== Intelligent Recon Report =====
+Target: scanme.nmap.org
+Time: 2026-02-17 15:11:14.031139
+Risk Score: 3
+
+Port: 22 | Service: ssh | Risk: Medium
+Port: 80 | Service: http | Risk: Low
