@@ -1,0 +1,15 @@
+window.myChart = new Chart(ctx, {
+    type: "bar",
+    data: {
+        labels: Object.keys(serviceCount),
+        datasets: [{
+            label: "Service Distribution",
+            data: Object.values(serviceCount),
+        }]
+    },
+    options: {
+        animation: {
+            duration: 2000
+        }
+    }
+});
