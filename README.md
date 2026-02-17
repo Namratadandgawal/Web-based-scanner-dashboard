@@ -61,13 +61,11 @@ web-scanner-dashboard/
 
 ```bash
 git clone https://github.com/Namratadandgawal/Web-based-scanner-dashboard.git
-cd your-repo-name
-2️⃣ Install Dependencies
-pip install -r requirements.txt
+
 ▶️ Run Locally (Windows / Linux)
 python app.py
-Open your browser:
 
+Open your browser:
 http://127.0.0.1:5000
 📊 Example Scan Output
 Target: scanme.nmap.org
