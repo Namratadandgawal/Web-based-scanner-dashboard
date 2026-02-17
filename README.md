@@ -47,7 +47,7 @@ web-scanner-dashboard/
 ├── requirements.txt 
 │
 ├── templates/
-│ ├── index.html # 
+│ ├── index.html 
 │ └── dashboard.html # Scan results dashboard
 │
 └── static/ # CSS / JS / assets
@@ -86,12 +86,13 @@ High Risk → Database ports, exposed admin services
 
 Risk score is calculated based on exposed services and weighted severity.
 
-🖼 Screenshots
-Top 100 Ports Scan:
-<img width="1365" height="716" alt="Top_scan" src="https://github.com/user-attachments/assets/ffbec03f-5192-4f11-9225-0b8824696bdf" />
+## 🖼 Screenshots
 
-Custom Port Range Scan:
-<img width="1365" height="720" alt="custom_scan" src="https://github.com/user-attachments/assets/f2520c39-d1f3-440e-b349-d5e8c4feea16" />
+### Top 100 Ports Scan
+![Top Scan](Top_scan.png)
+
+### Custom Port Range Scan
+![Custom Scan](custom_scan.png)
 
 
 
