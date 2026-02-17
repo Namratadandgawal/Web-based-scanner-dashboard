@@ -86,15 +86,6 @@ High Risk → Database ports, exposed admin services
 
 Risk score is calculated based on exposed services and weighted severity.
 
-## 🖼 Screenshots
-
-### Top 100 Ports Scan
-![Top Scan](Top_scan.png)
-
-### Custom Port Range Scan
-![Custom Scan](custom_scan.png)
-
-
 
 🔒 Security & Legal Disclaimer
 ⚠ Educational Purposes Only
